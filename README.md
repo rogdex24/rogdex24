@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abu Talha
-=================================================================================================================================
+Hi 👋 My name is Abu Talha
+==========================
 
-DevOps | Backend
+DevOps | Backend Dev
 ----------------
 
 I am a final year undergraduate(B.Tech) student from JIIT, Noida. Who likes to build APIs. Actively looking for full-time new-grad opportunities as a Software Engineer/DevOps Engineer.
