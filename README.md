@@ -7,7 +7,7 @@ DevOps | Backend Dev
 I am a final year undergraduate(B.Tech) student from JIIT, Noida. Who likes to build APIs. Actively looking for full-time new-grad opportunities as a Software Engineer/DevOps Engineer.
 
 * 🌍  I'm based in Noida, India
-* 🖥️  See my portfolio at [rogdex24.me](http://rogdex24.me)
+* 🖥️  See my resume at [rogdex24.me](http://rogdex24.me/resume)
 * ✉️  You can contact me at [shaikabutalha24@gmail.com](mailto:shaikabutalha24@gmail.com)
 * 🧠  I'm learning DevOps/Cloud, Backend Development
 * ⚡  Azure 4x Certified
@@ -38,8 +38,6 @@ I am a final year undergraduate(B.Tech) student from JIIT, Noida. Who likes to b
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/rogdex24"><img src="https://github-readme-stats.vercel.app/api?username=rogdex24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rogdex24's GitHub stats" /></a>
-
-<a href="https://github.com/rogdex24" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogdex24&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 **rogdex24/rogdex24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
