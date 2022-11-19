@@ -4,7 +4,7 @@ Hi 👋 My name is Abu Talha
 DevOps | Backend Dev
 ----------------
 
-I am a final year undergraduate(B.Tech) student from JIIT, Noida. Who likes to build APIs. Actively looking for full-time new-grad opportunities as a Software Engineer/DevOps Engineer.
+I am a final year undergraduate(B.Tech) student from JIIT, Noida. Who likes to build software, curious towards DevOps and Cloud Infrastructure.. Actively looking for full-time new-grad opportunities as a Software Engineer/DevOps Engineer.
 
 * 🌍  I'm based in Noida, India
 * 🖥️  See my resume at [rogdex24.me](http://rogdex24.me/resume)
