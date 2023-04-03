@@ -10,7 +10,7 @@ I am a final year undergraduate(B.Tech) student from JIIT, Noida. Who likes to b
 * 🖥️  See my resume at [rogdex24.me](http://rogdex24.me/resume)
 * ✉️  You can contact me at [shaikabutalha24@gmail.com](mailto:shaikabutalha24@gmail.com)
 * 🧠  I'm learning DevOps/Cloud, Backend Development
-* ⚡  Azure 4x Certified
+* ⚡  Cloud Certified: Azure 4x , GCP 1x - Associate Level
 
 ### Skills
 
