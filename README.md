@@ -4,7 +4,7 @@ Hi 👋 My name is Abu Talha
 DevOps | Backend Dev
 ----------------
 
-Software Engineer who likes to build software, curious towards DevOps and Cloud Infrastructure. Mostly active around cloud native and open source communities.
+Software Engineer who likes to build resilient systems and engineering solutions, curious towards DevOps and Cloud First Infrastructure. Mostly active around cloud native and open source communities.
 
 * 🌍  I'm based in Hyderabad, India
 * 🖥️  See my resume at [rogdex24.me](http://rogdex24.me/resume)
