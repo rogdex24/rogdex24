@@ -4,13 +4,13 @@ Hi 👋 My name is Abu Talha
 DevOps | Backend Dev
 ----------------
 
-I am a final year undergraduate(B.Tech) student from JIIT, Noida. Who likes to build software, curious towards DevOps and Cloud Infrastructure.. Actively looking for full-time new-grad opportunities as a Software Engineer/DevOps Engineer.
+Software Engineer who likes to build software, curious towards DevOps and Cloud Infrastructure. Mostly active around cloud native and open source communities.
 
-* 🌍  I'm based in Noida, India
+* 🌍  I'm based in Hyderabad, India
 * 🖥️  See my resume at [rogdex24.me](http://rogdex24.me/resume)
 * ✉️  You can contact me at [shaikabutalha24@gmail.com](mailto:shaikabutalha24@gmail.com)
-* 🧠  I'm learning DevOps/Cloud, Backend Development
-* ⚡  Cloud Certified: Azure 4x , GCP 1x - Associate Level
+* 🧠  I'm learning AWS & Kubernetes in and out!
+* ⚡  Cloud Certified: Azure 4x, GCP 1x, AWS 1x
 
 ### Skills
 
