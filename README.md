@@ -10,7 +10,7 @@ Software Engineer who likes to build resilient systems and engineering solutions
 * 🖥️  See my resume at [rogdex24.me](http://rogdex24.me/resume)
 * ✉️  You can contact me at [shaikabutalha24@gmail.com](mailto:shaikabutalha24@gmail.com)
 * 🧠  I'm learning AWS & Kubernetes in and out!
-* ⚡  Cloud Certified: Azure 4x, GCP 1x, AWS 1x
+* ⚡  Cloud Certified: Azure 4x, GCP 1x, AWS 2x
 
 ### Skills
 
