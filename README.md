@@ -3,10 +3,10 @@ Hi 👋 My name is Abu Talha
 
 Full Stack Developer 
 ----------------
-> Software Engineer with over 2+ Years of Experience 
-> Ex-Founding Engineer at a FinOps Startup(acquired)
-> Tech agnostic developer and love solving problems through building end to end solutions
-> Can ship with quality and speed.
+* Software Engineer with over 2+ Years of Experience 
+* Ex-Founding Engineer at a FinOps Startup(acquired)
+* Tech agnostic developer and love solving problems through building end to end solutions
+* Can ship with quality and speed.
 
 
 * 🌲  Built solutions using JavaScript / Java / Python.
