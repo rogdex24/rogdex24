@@ -1,16 +1,20 @@
 Hi 👋 My name is Abu Talha
 ==========================
 
-DevOps | Backend Dev
+Full Stack Developer 
 ----------------
+> Software Engineer with over 2+ Years of Experience 
+> Ex-Founding Engineer at a FinOps Startup(acquired)
+> Tech agnostic developer and love solving problems through building end to end solutions
+> Can ship with quality and speed.
 
-Software Engineer who likes to build resilient systems and engineering solutions, curious towards DevOps and Cloud First Infrastructure. Mostly active around cloud native and open source communities.
 
-* 🌍  I'm based in Hyderabad, India
-* 🖥️  See my resume at [rogdex24.me](http://rogdex24.me/resume)
-* ✉️  You can contact me at [shaikabutalha24@gmail.com](mailto:shaikabutalha24@gmail.com)
-* 🧠  I'm learning AWS & Kubernetes in and out!
-* ⚡  Cloud Certified: Azure 4x, GCP 1x, AWS 2x
+* 🌲  Built solutions using JavaScript / Java / Python.
+* 🧵  Kubernetes: CKA(Certified Kubernetes Administrator), CKS(Certified Kubernetes Security Sepcialist) Certified
+* ⚡  Cloud Certified: GCP 1x, AWS 2x
+
+* 🌍  I'm based in India
+* ✉️  You can reach out to me at [shaikabutalha24@gmail.com](mailto:shaikabutalha24@gmail.com)
 
 ### Skills
 
