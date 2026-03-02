@@ -5,15 +5,16 @@ Full Stack Developer
 ----------------
 * Software Engineer with over 3+ Years of Experience 
 * Tech agnostic developer and love solving problems through building end to end solutions
+<!--
 * Can ship with quality and speed.
-
+-->
 
 * 🌲  Built solutions using JavaScript / Java / Python.
 * 🧵  Kubernetes: CKA(Certified Kubernetes Administrator), CKS(Certified Kubernetes Security Sepcialist) Certified
 * ⚡  Cloud Certified: GCP 1x, AWS 2x
 
-* 🌍  I'm based in India
-* ✉️  You can reach out to me at [rogdex24@gmail.com](mailto:rogdex24@gmail.com)
+* 🌍  I'm based out of India
+* ✉️  You can reach out to me at [shaikabutalha24@gmail.com](mailto:shaikabutalha24@gmail.com)
 
 ### Skills
 
